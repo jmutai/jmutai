@@ -121,9 +121,16 @@ helping organizations adopt scalable, secure, and production-grade infrastructur
 
 ## 📊 GitHub Insights
 
-![Joseph's GitHub Stats](https://github-readme-stats-ten-eta-10.vercel.app/api?username=jmutai&show_icons=true&hide=issues&include_all_commits=true&cache_seconds=86400&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=jmutai&theme=radical&hide_border=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-ten-eta-10.vercel.app/api?username=jmutai&show_icons=true&hide=issues&include_all_commits=true&cache_seconds=86400&theme=radical"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=jmutai&theme=radical&hide_border=true"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
