@@ -8,12 +8,15 @@
 
 Senior Platform Engineer and infrastructure architect with a track record of designing scalable, secure cloud-native platforms across GCP, AWS, Azure, and bare-metal, bridging the gap between platform engineering, security, and developer experience for high-growth teams.
 
-Founder of **[CloudSpinx](https://cloudspinx.com)**: A DevOps & cloud-native consultancy helping organizations design and operate modern infrastructure; whether on-prem, hybrid, or fully cloud-native - across platform engineering, network automation, container orchestration, GitOps, and zero-trust security.
+Founder of **[CloudSpinx](https://cloudspinx.com)** — a DevOps & cloud-native consultancy
+helping organizations design and operate modern infrastructure; whether on-prem, hybrid, or
+fully cloud-native — across platform engineering, network automation, container orchestration,
+GitOps, and zero-trust security.
 
-🔹 Expert in **GKE, EKS, GCP, AWS, On-prem infra** — designing multi-cluster platforms from scratch.
-🔹 Strong **Terraform/Terragrunt** practitioner with reusable, declarative IaC at scale.
-🔹 Deep experience with **HashiCorp Vault**, **External Secrets Operator**, and **Workload Identity**.
-🔹 GitOps advocate — shipping infrastructure and apps through **ArgoCD** and **FluxCD**.
+🔹 Expert in **GKE, EKS, GCP, AWS, on-prem** — designing multi-cluster platforms from scratch.  
+🔹 Strong **Terraform/Terragrunt** practitioner with reusable, declarative IaC at scale.  
+🔹 Deep experience with **HashiCorp Vault**, **External Secrets Operator**, and **Workload Identity**.  
+🔹 GitOps advocate — shipping infrastructure and apps through **ArgoCD** and **FluxCD**.  
 🔹 Full observability stacks: **Prometheus, Grafana, Loki, Mimir, Alloy**.
 
 ---
