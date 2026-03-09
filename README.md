@@ -19,8 +19,9 @@ GitOps, and zero-trust security.
 🔹 IaC at scale with **Terraform, Terragrunt, and Crossplane** — reusable, declarative, and environment-agnostic.  
 🔹 Secrets and identity done right — **HashiCorp Vault, External Secrets Operator, Workload Identity, and Zitadel SSO**.  
 🔹 Full-stack observability - **Prometheus, Grafana, Loki, Mimir, Alloy, and ELK** — from metrics to logs to traces.  
-🔹 Infrastructure automation beyond cloud - **Ansible, Puppet, Salt, NixOS, and Packer** for configuration management, immutable OS builds, and bare-metal provisioning.
+🔹 Infrastructure automation beyond cloud - **Ansible, Puppet, Salt, NixOS, and Packer** for configuration management, immutable OS builds.
 🔹 Zero-trust networking - **Tailscale, NetBird, and Cloudflare ZT** for secure, identity-aware access across hybrid environments.
+🔹 Developer experience champion — **Backstage IDP** for unified service catalogs, scaffolding, and golden paths that abstract platform complexity from engineering teams.
 
 ---
 
