@@ -114,7 +114,14 @@ GitOps, and zero-trust security.
     <td>
       <img src="https://img.shields.io/badge/Cloud_SQL-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Ceph-EF5C55?style=flat-square&logo=ceph&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Rook-0095D5?style=flat-square&logo=rook&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenEBS-F15A29?style=flat-square&logo=openebs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ZFS-2A667F?style=flat-square&logo=openzfs&logoColor=white"/>
     </td>
     <td>
       <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white"/>
