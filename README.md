@@ -8,15 +8,15 @@
 
 Senior Platform Engineer and infrastructure architect with a track record of designing scalable, secure cloud-native platforms across GCP, AWS, Azure, and bare-metal, bridging the gap between platform engineering, security, and developer experience for high-growth teams.
 
-Founder of **[CloudSpinx](https://cloudspinx.com)** — a DevOps & cloud-native consultancy
+Founder of **[CloudSpinx](https://cloudspinx.com)** - a DevOps & cloud-native consultancy
 helping organizations design and operate modern infrastructure; whether on-prem, hybrid, or
-fully cloud-native — across platform engineering, network automation, container orchestration,
+fully cloud-native, across platform engineering, network automation, container orchestration,
 GitOps, and zero-trust security.
 
-🔹 Expert in **GKE, EKS, GCP, AWS, on-prem** — designing multi-cluster platforms from scratch.  
-🔹 Strong **Terraform/Terragrunt** practitioner with reusable, declarative IaC at scale.  
+🔹 Expert in **GKE, EKS, GCP, AWS, on-prem**: designing multi-cluster platforms from scratch.  
+🔹 Strong **Terraform/Terragrunt**: practitioner with reusable, declarative IaC at scale.  
 🔹 Deep experience with **HashiCorp Vault**, **External Secrets Operator**, and **Workload Identity**.  
-🔹 GitOps advocate — shipping infrastructure and apps through **ArgoCD** and **FluxCD**.  
+🔹 GitOps advocate: shipping infrastructure and apps through **ArgoCD** and **FluxCD**.  
 🔹 Full observability stacks: **Prometheus, Grafana, Loki, Mimir, Alloy**.
 
 ---
@@ -87,6 +87,10 @@ GitOps, and zero-trust security.
     </td>
     <td>
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FluxCD-5468FF?style=flat-square&logo=flux&logoColor=white"/>
       <img src="https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=flat-square&logo=bitbucket&logoColor=white"/>
       <img src="https://img.shields.io/badge/Skaffold-1A73E8?style=flat-square&logo=google&logoColor=white"/>
     </td>
