@@ -13,11 +13,14 @@ helping organizations design and operate modern infrastructure; whether on-prem,
 fully cloud-native, across platform engineering, network automation, container orchestration,
 GitOps, and zero-trust security.
 
-🔹 Expert in **GKE, EKS, GCP, AWS, on-prem**: designing multi-cluster platforms from scratch.  
-🔹 Strong **Terraform/Terragrunt**: practitioner with reusable, declarative IaC at scale.  
-🔹 Deep experience with **HashiCorp Vault**, **External Secrets Operator**, and **Workload Identity**.  
-🔹 GitOps advocate: shipping infrastructure and apps through **ArgoCD** and **FluxCD**.  
-🔹 Full observability stacks: **Prometheus, Grafana, Loki, Mimir, Alloy**.
+🔹 Expert in **GCP, AWS, Azure, and on-prem** — designing and operating multi-cluster platforms from scratch to production.  
+🔹 Hands-on with **GKE, EKS, AKS, OpenShift, Rancher, and vanilla Kubernetes** — from cluster bootstrapping to day-2 operations.  
+🔹 GitOps advocate — delivering infrastructure and apps through **ArgoCD** and **FluxCD** with full audit trails and zero manual drift.  
+🔹 IaC at scale with **Terraform, Terragrunt, and Crossplane** — reusable, declarative, and environment-agnostic.  
+🔹 Secrets and identity done right — **HashiCorp Vault, External Secrets Operator, Workload Identity, and Zitadel SSO**.  
+🔹 Full-stack observability - **Prometheus, Grafana, Loki, Mimir, Alloy, and ELK** — from metrics to logs to traces.  
+🔹 Infrastructure automation beyond cloud - **Ansible, Puppet, Salt, NixOS, and Packer** for configuration management, immutable OS builds, and bare-metal provisioning.
+🔹 Zero-trust networking - **Tailscale, NetBird, and Cloudflare ZT** for secure, identity-aware access across hybrid environments.
 
 ---
 
