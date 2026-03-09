@@ -13,15 +13,15 @@ helping organizations design and operate modern infrastructure; whether on-prem,
 fully cloud-native, across platform engineering, network automation, container orchestration,
 GitOps, and zero-trust security.
 
-🔹 Expert in **GCP, AWS, Azure, Hetzner, and on-prem (Proxmox, OpenStack, KVM, VMware)** — designing and operating multi-cluster platforms from scratch to production across public cloud, private cloud, and bare-metal.  
-🔹 Hands-on with **GKE, EKS, AKS, OpenShift, Rancher, and vanilla Kubernetes** — from cluster bootstrapping to day-2 operations.  
-🔹 GitOps advocate — delivering infrastructure and apps through **ArgoCD** and **FluxCD** with full audit trails and zero manual drift.  
-🔹 IaC at scale with **Terraform, Terragrunt, and Crossplane** — reusable, declarative, and environment-agnostic.  
-🔹 Secrets and identity done right — **HashiCorp Vault, External Secrets Operator, Workload Identity, and Zitadel SSO**.  
-🔹 Full-stack observability — **Prometheus, Grafana, Loki, Mimir, Alloy, and ELK** — from metrics to logs to traces.  
-🔹 Infrastructure automation beyond cloud — **Ansible, Puppet, Salt, NixOS, and Packer** for configuration management and immutable OS builds.  
-🔹 Zero-trust networking — **Tailscale, NetBird, and Cloudflare ZT** for secure, identity-aware access across hybrid environments.  
-🔹 Developer experience champion — **Backstage IDP** for unified service catalogs, scaffolding, and golden paths that abstract platform complexity from engineering teams.
+🔹 Expert in **GCP, AWS, Azure, Hetzner, and on-prem (Proxmox, OpenStack, KVM, VMware)** - designing and operating multi-cluster platforms from scratch to production across public cloud, private cloud, and bare-metal.  
+🔹 Hands-on with **GKE, EKS, AKS, OpenShift, Rancher, and vanilla Kubernetes** - from cluster bootstrapping to day-2 operations.  
+🔹 GitOps advocate - delivering infrastructure and apps through **ArgoCD** and **FluxCD** with full audit trails and zero manual drift.  
+🔹 IaC at scale with **Terraform, Terragrunt, and Crossplane** - reusable, declarative, and environment-agnostic.  
+🔹 Secrets and identity done right - **HashiCorp Vault, External Secrets Operator, Workload Identity, and Zitadel SSO**.  
+🔹 Full-stack observability - **Prometheus, Grafana, Loki, Mimir, Alloy, and ELK** — from metrics to logs to traces.  
+🔹 Infrastructure automation beyond cloud - **Ansible, Puppet, Salt, NixOS, and Packer** for configuration management and immutable OS builds.  
+🔹 Zero-trust networking - **Tailscale, NetBird, and Cloudflare ZT** for secure, identity-aware access across hybrid environments.  
+🔹 Developer experience champion - **Backstage IDP** for unified service catalogs, scaffolding, and golden paths that abstract platform complexity from engineering teams.
 
 ---
 
